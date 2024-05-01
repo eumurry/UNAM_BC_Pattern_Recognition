@@ -1,2 +1,2 @@
-# UNAM_BC_Pattern_Recognition
- 
+# Pattern-Recognition
+Particular solutions to the pattern recognition course of FI, UNAM.
